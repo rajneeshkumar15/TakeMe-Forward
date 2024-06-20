@@ -1,0 +1,2 @@
+Sum: 5000050000
+Time taken: 0 ms
