@@ -9,6 +9,15 @@ int countDigit(int n){
         n = n / 10;
     }
     return count;
+
+    /*
+
+        use [ log10(number) + 1 ] to count digits.
+
+        int count = log10(n) + 1;
+        return count;
+    */
+    
 }
 int main()
 {
